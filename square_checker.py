@@ -29,7 +29,7 @@ def main():
     except Exception:
         # Updated message for invalid (non-numeric) input
         print("One or both inputs were not valid numbers!")
-        
+
     finally:
         # Closing message
         print("Thank you for using the program.")
